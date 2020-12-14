@@ -1,0 +1,1 @@
+#message1은 A, message2는 B, message3는 for 구문으로 인해 message2와 print("C")를 3번씩 출력하고, 마지막으로 message1을 출력한다

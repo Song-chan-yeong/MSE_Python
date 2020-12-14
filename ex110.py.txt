@@ -1,0 +1,2 @@
+#만약 참이라면, if False:print("1")print("2") else:print("3")을 통해 3이 출력된다
+#마지막에 print("5")는 if에 속해있지 않기 때문에 5가 출력된다
